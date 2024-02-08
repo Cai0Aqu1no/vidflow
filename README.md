@@ -13,7 +13,7 @@
 
 ## Página reprodutora de vídeos alocados no youtube através de uma API.
 O projeto é uma aplicação web interativa que permite aos usuários filtras o conteúdo procurado na aba de pesquisa, 
-e também filtrar por categprias nos botões superiores, tudo em um ambiente visual agradável e amigável. (Completamente responsivo)
+e também filtrar por categorias nos botões superiores, tudo em um ambiente visual agradável e amigável. (Completamente responsivo)
 
 ## Uma pitada do projeto:
 ![](./img/print.png)
