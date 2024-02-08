@@ -15,6 +15,7 @@
 O projeto é uma aplicação web interativa que permite aos usuários filtras o conteúdo procurado na aba de pesquisa, 
 e também filtrar por categprias nos botões superiores, tudo em um ambiente visual agradável e amigável. (Completamente responsivo)
 
-![](./imagens/print.png)
+## Uma pitada do projeto:
+![](./img/print.png)
 
 
